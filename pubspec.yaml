@@ -47,6 +47,8 @@ dependencies:
  
   flutter_localizations:
     sdk: flutter
+  shared_preferences: ^2.3.4
+  provider: ^6.1.2
 dev_dependencies:
   flutter_test:
     sdk: flutter
